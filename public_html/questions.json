@@ -1,0 +1,12 @@
+{"questions":[
+  {
+     "question": "Who is Prime Minister of the United Kingdom?",
+      "choices": ["David Cameron", "Gordon Brown", "Winston Churchill", "Tony Blair"],
+      "correctAnswer": "a"
+  },
+{  
+    "question": "Who is the Prime Minister of Canada?",
+      "choices": ["Jean Chretien", "Pierre Trudeau", "Stephen Harper", "Wendel Clark"],
+      "correctAnswer": "c"
+}
+ ]}
